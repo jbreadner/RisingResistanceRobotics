@@ -56,7 +56,7 @@ import org.firstinspires.ftc.teamcode.HardwareTestBot;
  * Remove or comment out the @Disabled line to add this opmode to the Driver Station OpMode list
  */
 
-@TeleOp(name="TestBot: Telop Tank", group="TestBot")
+@TeleOp(name="TestBot: Telop Tank", group="TeleOp")
 // @Disabled
 public class TestBotTeleOp_Linear extends LinearOpMode {
 
